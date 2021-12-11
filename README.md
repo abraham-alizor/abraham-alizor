@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://my-portfolio-octkfnaee-abraham-alizor.vercel.app/)**
 
-- 🔭 I’m currently working on **[an Sportify Clone](#)**
+- 🔭 I’m currently working on **[a Sportify Clone](#)**
 
 - 🌱 Web && Mobile Developer **React Native**
 
