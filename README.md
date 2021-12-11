@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[an Uber Clone](https://uber2-0.herokuapp.com/)**
+- 🔭 I’m currently working on **[an Uber Clone](https://uber-2-0-2v64sa04i-abraham-alizor.vercel.app//)**
 
 - 🌱 Web && Mobile Developer **React Native**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abraham-alizor.herokuapp.com/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://my-portfolio-octkfnaee-abraham-alizor.vercel.app/)**
 
 - 📫 How to reach me **abraham.alizor@gmail.com**
 
