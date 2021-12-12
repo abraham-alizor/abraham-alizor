@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://my-portfolio-octkfnaee-abraham-alizor.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-ab.herokuapp.com/)**
 
 - 🔭 I’m currently working on **[a Sportify Clone](#)**
 
