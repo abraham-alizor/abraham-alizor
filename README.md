@@ -21,11 +21,9 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="left">
- 
     <a href = "https://www.linkedin.com/in/abraham-alizor-b42580218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://www.instagram.com/abrahamalizor/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  </p>
+
   <a href="https://github.com/abraham-alizor/github-readme-stats"><img alt="Abraham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-alizor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
