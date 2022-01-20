@@ -22,7 +22,7 @@
 
   <br/>
   <p align="left">
-  ## Connect with me:
+ 
     <a href = "https://www.linkedin.com/in/abraham-alizor-b42580218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://www.instagram.com/abrahamalizor/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   </p>
