@@ -12,11 +12,3 @@
 
 
 - 📫 How to reach me **abraham.alizor@gmail.com**
-
-  <br>
-
-## 📊 My Github Stats
-
-  <br/>
-  
- 
