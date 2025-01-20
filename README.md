@@ -16,9 +16,5 @@
 - 💬 Ask me about React Native, Typescript, Dart, PHP, and Flutter
 - 📫 How to reach me:  **abraham.alizor@gmail.com**
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-alizor)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abraham-alizor)  
